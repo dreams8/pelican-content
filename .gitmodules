@@ -1,0 +1,6 @@
+[submodule "plugins/extract_headings"]
+	path = plugins/extract_headings
+	url = https://github.com/mawenbao/extract_headings.git
+[submodule "plugins/pelican-update-date"]
+	path = plugins/pelican-update-date
+	url = https://github.com/mawenbao/pelican-update-date.git
