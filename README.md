@@ -11,7 +11,9 @@
 
 ## 依赖
 ### 初始化插件
-插件以子项目方式添加
+主题插件以子项目方式添加
+
+    git submodule add https://github.com/dreams8/niu-x2-sidebar.git themes/niu-x2-sidebar
     git submodule add https://github.com/mawenbao/extract_headings.git plugins/extract_headings
     git submodule add https://github.com/mawenbao/niux2_lazyload_helper.git plugins/niux2_lazyload_helper
     git submodule add https://github.com/mawenbao/pelican-update-date.git plugins/pelican-update-date

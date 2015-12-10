@@ -7,3 +7,6 @@
 [submodule "plugins/niux2_lazyload_helper"]
 	path = plugins/niux2_lazyload_helper
 	url = https://github.com/mawenbao/niux2_lazyload_helper.git
+[submodule "themes/niu-x2-sidebar"]
+	path = themes/niu-x2-sidebar
+	url = https://github.com/dreams8/niu-x2-sidebar.git
