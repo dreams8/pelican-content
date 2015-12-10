@@ -4,3 +4,6 @@
 [submodule "plugins/pelican-update-date"]
 	path = plugins/pelican-update-date
 	url = https://github.com/mawenbao/pelican-update-date.git
+[submodule "plugins/niux2_lazyload_helper"]
+	path = plugins/niux2_lazyload_helper
+	url = https://github.com/mawenbao/niux2_lazyload_helper.git
