@@ -18,6 +18,10 @@
     git submodule add https://github.com/mawenbao/niux2_lazyload_helper.git plugins/niux2_lazyload_helper
     git submodule add https://github.com/mawenbao/pelican-update-date.git plugins/pelican-update-date
 
+更新
+
+    git submodule update
+
 ### Pelican依赖
 * [niu-x2-sidebar][1]主题
 * [extract_headings][2]插件: 从html文件里提取h1~h6标题并生成目录列表
