@@ -160,8 +160,8 @@ NIUX2_GITHUB_REPO = 'dreams8/pelican-content'
 NIUX2_CATEGORY_MAP = {
     'code': ('代码', 'icon-code'),
     'collection': ('搜藏', 'icon-briefcase'),
-    'life': ('日常', 'icon-coffee'),
     'note': ('笔记', 'icon-book'),
+    'ansible': ('Ansible', 'icon-coffee'),
 }
 
 NIUX2_HEADER_SECTIONS = [

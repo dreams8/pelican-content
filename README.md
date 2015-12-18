@@ -5,6 +5,7 @@
 [5]: https://github.com/mawenbao/pelican-blog-content/tree/master/plugins/summary
 [6]: https://github.com/mawenbao/pelican-blog-content/tree/master/plugins/sitemap
 [7]: https://github.com/mawenbao/pelican-blog-content
+[8]: http://www.dongxf.com/3_Build_Personal_Blog_With_Pelican_And_GitHub_Pages.html
 
 # Dreams8记录
 本仓库用于存放Pelican博客的源文件和配置等。
@@ -44,3 +45,4 @@
 
 ## 感谢
 目录结构参考[MWB日常笔记][7]。
+Pelican搭建教程参考[dongxf][8]
