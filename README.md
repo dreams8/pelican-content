@@ -43,6 +43,22 @@
     pip install pelican-minify beautifulsoup4
     pip install PIL --allow-external PIL --allow-unverified PIL
 
+### 更新
+参考：
+
+[小贴士](http://pelican-docs-zh-cn.readthedocs.org/en/latest/tips.html)
+
+    pip install ghp-import
+    
+    git clone https://github.com/dreams8/dreams8.github.io.git && cd dreams8.github.io
+    git branch gh-pages
+
+    git checkout gh-pages
+    ghp-import ../output/
+    git checkout master
+    git merge gh-pages
+    git push --all
+
 ## 感谢
 目录结构参考[MWB日常笔记][7]。
 Pelican搭建教程参考[dongxf][8]
